@@ -1,4 +1,4 @@
-### Hi! I'm Ezedélio Garcia👋
+ Hi! I'm Ezedélio Garcia👋
 
 - 🔭 I work with front-end development
 - 🌱 I’m learning react.js
