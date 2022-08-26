@@ -1,7 +1,7 @@
  😁Hi! I'm Ezedélio Garcia👋
 
-- 🔭 I work with front-end development
-- 🌱 I’m learning react.js
+- 🔭 I work with front-end development.
+- 🌱 I’m learning react.js.
 - 📫 How to reach me: ezedeliogarcia@gmail.com
 
 <div align="center">
