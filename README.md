@@ -1,6 +1,6 @@
 # 😁Hi! I'm Ezedélio Garcia👋
 <div align="center">
-  <img height="200rem" width="100%" src="https://github.com/Ezedcode/6.images/blob/main/07%20(2)(5).jpg"/>
+  <img height="250rem" width="100%" src="https://github.com/Ezedcode/6.images/blob/main/07%20(2)(5).jpg"/>
 </div>
 - 🔭 I work with front-end development.
 - 🌱 I’m learning react.js.
