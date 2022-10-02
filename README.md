@@ -1,4 +1,5 @@
 # 😁Hi! I'm Ezedélio Garcia👋
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ezedcode&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 
 - 🔭 I work with front-end development.
 - 🌱 I’m learning react.js.
