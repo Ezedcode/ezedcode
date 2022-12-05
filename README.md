@@ -8,8 +8,8 @@
 
 ##
 
-<img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/hi.gif"/>
-- 🌱 I’m learning node.js.
+<img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/hi.gif"/><br>
+- 🌱 I’m learning node.js.<br>
 - 📫 How to reach me: ezedeliogarcia@gmail.com
 
 <div align="center">
