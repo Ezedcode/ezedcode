@@ -1,7 +1,7 @@
 # 😁Hi! I'm Ezedélio Garcia<img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/hi.gif"/>
 
 - 🔭 I work with front-end development.
-- 🌱 I’m learning react.js.
+- 🌱 I’m learning node.js.
 - 📫 How to reach me: ezedeliogarcia@gmail.com
 
 <div align="center">
