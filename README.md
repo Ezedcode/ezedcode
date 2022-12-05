@@ -3,7 +3,7 @@
 </div> 
 <picture>
   <source media="(min-width:650px)" srcset="https://github.com/Ezedcode/6.images/blob/main/welcome.png">
-  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+  <img src="https://github.com/Ezedcode/6.images/blob/main/welcomeMobile.png" alt="Flowers" style="width:auto;">
 </picture><br>
 
 ##
