@@ -1,6 +1,7 @@
-#<div align="center">
+<div align="center">
     <img src="https://github.com/Ezedcode/6.images/blob/main/welcome.png"/>
 </div> <br>
+#
 😁Hi! I'm Ezedélio Garcia<img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/hi.gif"/>
 
 - 🔭 I'm front-end developer.
