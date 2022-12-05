@@ -4,7 +4,7 @@
 - 🌱 I’m learning node.js.
 - 📫 How to reach me: ezedeliogarcia@gmail.com
 <div align="center">
-  <img src="https://github.com/Ezedcode/6.images/blob/main/greetingGit.png"/>
+  <img src="https://github.com/Ezedcode/6.images/blob/main/welcome.png"/>
 </div> <br>
 <div align="center">
   <a href="https://github.com/ezedcode">
