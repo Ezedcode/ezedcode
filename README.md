@@ -1,10 +1,10 @@
-# 😁Hi! I'm Ezedélio Garcia<img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/greeting.gif"/>
+# 😁Hi! I'm Ezedélio Garcia<img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/hi.gif"/>
 
 - 🔭 I'm front-end developer.
 - 🌱 I’m learning node.js.
 - 📫 How to reach me: ezedeliogarcia@gmail.com
 <div align="center">
-  <img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/hi.gif"/>
+  <img height="40px" src="https://github.com/Ezedcode/6.images/blob/main/greeting.gif"/>
 </div> <br>
 <div align="center">
   <a href="https://github.com/ezedcode">
